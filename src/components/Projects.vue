@@ -54,7 +54,7 @@ export default {
           desc:
             "Software has become an essential tool for every business in the world, yet most businesses don’t have access to quality software development at a reasonable cost. Businesses with access to quality software have hundreads of times more leverage than those without. At Baseblock, we aim to develop high quality software in reasonable budget.",
           class: "baseblock",
-          link: "https://baseblock.io/"
+          link: "https://baseblock.netlify.com/"
         },
         {
           key: 4,
