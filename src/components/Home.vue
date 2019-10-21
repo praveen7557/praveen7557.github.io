@@ -9,7 +9,7 @@
           </span>
           <span class="divLink">
             <a
-              href="https://drive.google.com/uc?export=download&id=1aqbjgbtbs3Acl2WQlpBwPxhCfX2nL-_V"
+              href="https://drive.google.com/uc?export=download&id=19URTjnF2r6rnReQu9b4LzzUToZmLceVC"
             >Resume</a>
           </span>
           <span class="divLink">
@@ -38,7 +38,7 @@
               <div class="mailID divDesktop">praveenb0800[at]gmail.com</div>
             </a>
             <a
-              href="https://drive.google.com/uc?export=download&id=0B23TkJzUADbxT3FHTTlBTWV1eW5QSHgtU0U3YU9lbmt2TVNN"
+              href="https://drive.google.com/uc?export=download&id=19URTjnF2r6rnReQu9b4LzzUToZmLceVC"
             >
               <div class="mailID divMobile">Download Resume</div>
             </a>
@@ -56,9 +56,9 @@
         :key="item.key"
       ></div>
     </div>
-    <Experience/>
-    <Projects/>
-    <Contact/>
+    <Experience />
+    <Projects />
+    <Contact />
   </div>
 </template>
 

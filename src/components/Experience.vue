@@ -30,7 +30,7 @@ export default {
         {
           key: 4,
           position: "Senior Software Development Engineer",
-          experience: "6",
+          experience: "9",
           expLabel: "Months",
           duration: "Jan 2019 - Present",
           company: "West Agile Labs"
