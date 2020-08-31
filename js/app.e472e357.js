@@ -174,7 +174,7 @@
                     {
                       attrs: {
                         href:
-                          "https://drive.google.com/uc?export=download&id=1kS-iH6HEsr5-AP29UTgGsLUYVzAleia4",
+                          "https://drive.google.com/uc?export=download&id=1lTxeDdeZHOAZ23praPVdTTKHHZ7i5EJO",
                       },
                     },
                     [e._v("Resume")]
@@ -237,7 +237,7 @@
                     {
                       attrs: {
                         href:
-                          "https://drive.google.com/uc?export=download&id=1kS-iH6HEsr5-AP29UTgGsLUYVzAleia4",
+                          "https://drive.google.com/uc?export=download&id=1lTxeDdeZHOAZ23praPVdTTKHHZ7i5EJO",
                       },
                     },
                     [
